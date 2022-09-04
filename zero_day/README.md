@@ -1,1 +1,2 @@
-My personal vagrant file
+'#!/bin/bash
+uname
